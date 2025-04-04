@@ -1,0 +1,14 @@
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\bin\Debug\net8.0\grade Tracker.exe
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\bin\Debug\net8.0\grade Tracker.deps.json
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\bin\Debug\net8.0\grade Tracker.runtimeconfig.json
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\bin\Debug\net8.0\grade Tracker.dll
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\bin\Debug\net8.0\grade Tracker.pdb
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.AssemblyInfoInputs.cache
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.AssemblyInfo.cs
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.csproj.CoreCompileInputs.cache
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.dll
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\refint\grade Tracker.dll
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.pdb
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.genruntimeconfig.cache
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\ref\grade Tracker.dll
