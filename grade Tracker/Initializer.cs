@@ -10,8 +10,8 @@ public class Initializer
       PGStudent student2=new PGStudent();
       student2.Name="Yaswini";
 
-     /* DiplomaStudent student3=new DiplomaStudent();
-      student3.name="Asritha";*/
+      DiplomaStudent student3=new DiplomaStudent();
+      student3.Name="Asritha";
 
       Subject subject1=new Subject();
       subject1.GetGradePoints("A");
@@ -23,19 +23,19 @@ public class Initializer
       subject2.GetGradePoints("B");
       subject2.GetGradePoints("C");
 
-     /* Subject subject3=new Subject();
-      subject1.getCredits("Maths");
-      subject1.getGradePoints("B");
-      subject3.getCredits("Physics");
-      subject3.getGradePoints("B");
-      subject3.getCredits("Chemistry");
-      subject3.getGradePoints("C");*/
+      Subject subject3=new Subject();
+      subject1.GetCredits("Maths");
+      subject1.GetGradePoints("B");
+      subject3.GetCredits("Physics");
+      subject3.GetGradePoints("B");
+      subject3.GetCredits("Chemistry");
+      subject3.GetGradePoints("C");
 
       
 
-      student1.CalculateGPA(subject1.Points);
-      student2.CalculateGPA(subject2.Points);
-      //student3.CalculateGPA(subject3.points,subject3.credits);
+      student1.CalculateGPA(subject1.Points,subject1.Credits);
+      student2.CalculateGPA(subject2.Points,subject2.Credits);
+      student3.CalculateGPA(subject3.Points,subject3.Credits);
 
 
    }

@@ -39,24 +39,24 @@ public class Subject
           }
      }
 
- /*    public void GetCredits(string SubjectName){
+    public void GetCredits(string SubjectName){
           switch(SubjectName)
           {
             case "Maths":
-               points.Add(5.0);
+               Credits.Add(5.0);
                break;
 
             case "Physics":
-               points.Add(4.0);
+               Credits.Add(4.0);
                break;
 
             case "Chemistry":
-               points.Add(3.0);
+               Credits.Add(3.0);
                break;
 
              default:
-                points.Add(0.0);
+                Credits.Add(0.0);
                 break;
           }
-     }*/
+     }
 }

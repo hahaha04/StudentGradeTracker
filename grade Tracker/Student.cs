@@ -9,5 +9,5 @@ public abstract class Student
            string grade1=grade;
      }
 
-     public abstract void CalculateGPA(List<double> points/*,List<double> credits*/ );
+     public abstract void CalculateGPA(List<double> points,List<double> credits );
 }

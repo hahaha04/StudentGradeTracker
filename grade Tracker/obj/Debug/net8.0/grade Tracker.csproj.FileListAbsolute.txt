@@ -12,3 +12,4 @@ C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\g
 C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.pdb
 C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.genruntimeconfig.cache
 C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\ref\grade Tracker.dll
+C:\Users\NH7363\OneDrive - Hitachi Energy\Documents\Code\Student_Grade_tracker\grade Tracker\obj\Debug\net8.0\grade Tracker.sourcelink.json
